@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- 🎀 HEADER SIMPLE TAPI CANTIK -->
+<!-- 🎀 HEADER CANTIK -->
 # 🌸🎀 Hartika Ansar 🎀🌸
 
-<!-- 🌸 ANIMASI BUNGA BERPUTAR -->
-<img src="https://media4.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="200">
+<!-- 🌸 ANIMASI BUNGA YANG WORK -->
+<img src="https://media1.tenor.com/m/2N3tXWn4p4AAAAAC/flower-pink.gif" width="200">
 
-<!-- 🦋 KUPU-KUPU TERBANG -->
-<img src="https://media0.giphy.com/media/l4HnKwiJJaJQB04Zq/giphy.gif" width="150">
+<!-- 🦋 ANIMASI KUPU-KUPU YANG WORK -->
+<img src="https://media1.tenor.com/m/0XUhSrW5gpsAAAAi/bubby-butterfly.gif" width="150">
 
 <!-- ✨ TYPING EFFECT -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🌸+Welcome+to+my+profile!;💖+Web+Developer+Enthusiast;🎀+Nature+%26+Code+Lover&center=true&size=20&color=FFB6C1&width=500)
