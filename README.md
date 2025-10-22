@@ -16,31 +16,13 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<!-- 🌸 ANIMASI BUNGA PINK BERMEKAR -->
-<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="300">
+<!-- 🌸 ANIMASI BUNGA YANG PASTI WORK -->
+<img src="https://i.pinimg.com/originals/2b/84/76/2b8476cae6da5d2c00c5db41d1c7c8b6.gif" width="300">
 
 <!-- 🦋 KUPU-KUPU TERBANG -->
-<img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4n/giphy.gif" width="150">
+<img src="https://media.tenor.com/0XUhSrW5gpsAAAAi/bubby-butterfly.gif" width="200">
 
-<!-- ✨ TYPING ANIMATION PINK -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Halo,+Saya+Hartika+🌸;Web+Developer;Nature+Lover&center=true&size=24&color=FF69B4&width=500)
-
-<!-- 🍃 HUJAN DAUN PINK -->
-<img src="https://media.giphy.com/media/l4HnKwiJJaJQB04Zq/giphy.gif" width="250">
-
----
-
-### 🌷 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-FFC0CB?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-FFB7C5?style=for-the-badge&logo=php&logoColor=white)
-
-### 📫 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hartika)
-[![Email](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hartika@email.com)
-
-<!-- 🌸 STATISTIK DENGAN THEME PINK -->
-![Hartika's GitHub stats](https://github-readme-stats.vercel.app/api?username=HartikaAnsar&show_icons=true&theme=radical)
+<!-- ✨ TULISAN ANIMASI -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Halo,+Saya+Hartika!🌸;Web+Developer;Nature+Lover&center=true&size=24&color=FF69B4)
 
 </div>
